@@ -1,4 +1,4 @@
-Todo app
+<b>Todo app</b> <br>
 This project contains a simple TODO application
 it has the following features -
 
